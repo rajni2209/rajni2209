@@ -46,17 +46,7 @@
 - ✅ Completed **LeetCode SQL 50**  
 - 📖 Following a structured roadmap for **Spring Boot**, **Java DSA**, and **Backend Mastery**  
 - 🏫 Built a complete **Student Management System Project** in Java using file handling and object-oriented concepts  
-- 🏅 Earned **NPTEL Certification in Data Structures and Algorithms**  
-
----
-
-### 🎯 What I’m Focusing On
-
-- Spring Boot mastery 🌿  
-- Clean Code & Java 17+ features ☕  
-- Full-stack app architecture 🌐  
-- Real-world project building 📲  
-- Resume-ready portfolios 💼  
+- 🏅 Earned **NPTEL Certification in Data Structures and Algorithms**    
 
 ---
 
