@@ -6,7 +6,7 @@
 ### 🙋‍♀️ About Me
 
 - 🎯 I’m currently on a mission to become a **Java Backend Developer**
-- 🌱 I’m learning **Spring Boot**, **Data Structures & Algorithms (DSA)**
+- 🌱 I’m learning **Spring Framework** , **Spring Boot**, **Data Structures & Algorithms (DSA)**
 - 🎓 I'm pursuing **Software Engineering at Malla Reddy University**
 - 👩‍💻 I'm a proud **Board Member at Microsoft Learn Student Chapter (MLSC)**
 - 💡 Actively solving **DSA problems** to enhance my problem-solving skills on platforms like **LeetCode** and **GFG**
