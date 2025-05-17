@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RajniKant Kumar</h1>
-<h3 align="center">🚀 Aspiring Java Backend Developer | 📚 Software Engineering @ Malla Reddy University</h3>
+<h3 align="center">🚀 Aspiring Java Backend Developer | 📚 Pursuing Software Engineering @ Malla Reddy University</h3>
 
 ---
 
