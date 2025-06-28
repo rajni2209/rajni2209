@@ -1,30 +1,30 @@
 <h1 align="center">Hi 👋, I'm RajniKant Kumar</h1>
-<h3 align="center">🚀 Aspiring Java Backend Developer | 📚 Pursuing Software Engineering @ Malla Reddy University</h3>
+<h3 align="center">🚀 Aspiring Java Backend Developer | 📚 Pursuing Software Engineering @ Malla Reddy University | 🌟 Board Member @ Microsoft Learn Student Chapter</h3>
 
 ---
 
-### 🙋‍♀️ About Me
+### 🙋‍♂️ About Me
 
-- 🎯 I’m currently on a mission to become a **Java Backend Developer**
-- 🌱 I’m learning **Spring Framework** , **Spring Boot**, **Data Structures & Algorithms (DSA)**
-- 🎓 I'm pursuing **Software Engineering at Malla Reddy University**
-- 👩‍💻 I'm a proud **Board Member at Microsoft Learn Student Chapter (MLSC)**
-- 💡 Actively solving **DSA problems** to enhance my problem-solving skills on platforms like **LeetCode** and **GFG**
-- 📊 I’ve completed **LeetCode SQL 50** and love solving database challenges
+- 🎯 On a mission to become a **proficient Java Backend Developer**
+- 🌱 Deep-diving into **Spring Framework**, **Spring Boot**, **Hibernate**, and **Microservices**
+- 💻 Actively solving **Data Structures & Algorithms (DSA)** problems on **LeetCode** and **GFG**
+- 🎓 Pursuing **B.Tech in Software Engineering** at **Malla Reddy University**
+- 🌟 Board Member at **Microsoft Learn Student Chapter (MLSC)** — building community & knowledge
+- ✅ Completed **LeetCode SQL 50** and continuously practicing database design
 
 ---
 
 ### 🛠️ Tech Stack
 
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00599C?style=for-the-badge&logo=leetcode&logoColor=white)
-![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-00599C?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ---
 
@@ -40,29 +40,25 @@
 
 ---
 
-
-
 ### 🏆 Achievements
 
-- 🌟 **MLSC Board Member** – Contributing to the Microsoft Learn community  
-- ✅ Completed **LeetCode SQL 50**  
-- 📖 Following a structured roadmap for **Spring Boot**, **Java DSA**, and **Backend Mastery**  
-- 🏫 Built a complete **Student Management System Project** in Java using file handling and object-oriented concepts  
-- 🏅 Earned **NPTEL Certification in Data Structures and Algorithms**    
+- 🌟 **Board Member** at **Microsoft Learn Student Chapter (MLSC)**
+- ✅ Completed **LeetCode SQL 50** & growing SQL skills every day
+- 📖 Following a clear roadmap for mastering **Spring Boot**, **Microservices**, and **Cloud Deployment**
+- 🏅 **NPTEL Certified** in **Data Structures and Algorithms**
 
 ---
 
 ### 📬 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/rajnikant-kumar-27bb22354/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajnikant-kumar-27bb22354/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rajnikant070)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajnikantkumar2209@gmail.com)
 
 ---
 
-### ✨ Quote I Love
+### ✨ Quote I Live By
 
 > "Success doesn't come from what you do occasionally, it comes from what you do consistently." – Marie Forleo
 
 ---
-
