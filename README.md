@@ -48,6 +48,12 @@
   <img src="https://img.shields.io/badge/Problem%20Solving-FF5722?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="30" />
 </p>
 
+---
+
+## 🚀 Projects
+
+### 🧑‍💼 Employee Management System
+[🔗 View Repository](https://github.com/rajni2209/Employee-management-System)
 
 ---
 
