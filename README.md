@@ -1,37 +1,60 @@
-<h1 align="center">Hi 👋, I'm RajniKant Kumar</h1>
-<h3 align="center">🚀 Aspiring Java Backend Developer | 📚 Pursuing Software Engineering @ Malla Reddy University | 🌟 Board Member @ Microsoft Learn Student Chapter</h3>
+<h1 align="center">Hi 👋, I'm Rajnikant Kumar</h1>
+<h3 align="center">🚀 Aspiring Java Backend Developer | 🎓 B.Tech @ Malla Reddy University | 🌟 Board Member @ Microsoft Learn Student Chapter</h3>
 
 ---
 
 ### 🙋‍♂️ About Me
 
-- 🎯 On a mission to become a **proficient Java Backend Developer**
-- 🌱 Deep-diving into **Spring Framework**, **Spring Boot**, **Hibernate**, and **Microservices**
-- 💻 Actively solving **Data Structures & Algorithms (DSA)** problems on **LeetCode** and **GFG**
-- 🎓 Pursuing **B.Tech in Software Engineering** at **Malla Reddy University**
-- 🌟 Board Member at **Microsoft Learn Student Chapter (MLSC)** — building community & knowledge
-- ✅ Completed **LeetCode SQL 50** and continuously practicing database design
+- 🎯 Passionate about building scalable and secure **Java backend applications**
+- 🌱 Currently deep-diving into **Java Based Backend Developer**
+- 🔁 Actively practicing **Data Structures & Algorithms** on **LeetCode** and **GFG**
+- 🎓 **Software Engineering** student at **Malla Reddy University**
+- 🌟 Serving as a **Board Member** of the **Microsoft Learn Student Chapter (MLSC)** — building community & sharing knowledge
 
 ---
 
 ### 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-00599C?style=for-the-badge&logo=leetcode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+<p align="center">
+  <!-- Core & Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="Spring"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="50" alt="Maven"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="50" alt="Hibernate"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="50" alt="Postman"/>
+  <!-- IDEs -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="50" alt="Eclipse"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" alt="IntelliJ IDEA"/>
+
+</p>
+
+<p align="center">
+  <!-- Concepts with generic icons or SVGs -->
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=rest&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Spring%20ORM-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Spring%20Core-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/AOP-Aspect%20Oriented%20Programming-blue?style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Servlets-009688?style=for-the-badge&logo=java&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/DSA-FFA500?style=for-the-badge&logo=leetcode&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-FF5722?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="30" />
+</p>
+
 
 ---
 
-### 🚀 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajni2209&show_icons=true&theme=radical" alt="Rajni's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajni2209&show_icons=true&theme=radical" alt="Rajnikant's GitHub stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rajni2209&theme=radical" />
   <br/>
@@ -40,16 +63,15 @@
 
 ---
 
-### 🏆 Achievements
+### 🏆 Highlights & Achievements
 
-- 🌟 **Board Member** at **Microsoft Learn Student Chapter (MLSC)**
-- ✅ Completed **LeetCode SQL 50** & growing SQL skills every day
-- 📖 Following a clear roadmap for mastering **Spring Boot**, **Microservices**, and **Cloud Deployment**
-- 🏅 **NPTEL Certified** in **Data Structures and Algorithms**
+- 🌟 **Board Member**, Microsoft Learn Student Chapter (MLSC)
+- 🧠 Completed **LeetCode SQL 50 Challenge**
+- 🏅 **NPTEL Certified** in **Data Structures & Algorithms**
 
 ---
 
-### 📬 Let’s Connect
+### 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajnikant-kumar-27bb22354/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rajnikant070)
@@ -57,8 +79,8 @@
 
 ---
 
-### ✨ Quote I Live By
+### 💡 Quote I Live By
 
-> "Success doesn't come from what you do occasionally, it comes from what you do consistently." – Marie Forleo
+> *"Success doesn't come from what you do occasionally. It comes from what you do consistently."* – Marie Forleo
 
 ---
