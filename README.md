@@ -6,7 +6,7 @@
 ### 🙋‍♂️ About Me
 
 - 🎯 Passionate about building scalable and secure **Java backend applications**
-- 🌱 Currently deep-diving into **Java Based Backend Developer**
+- 🌱 Currently deep-diving into **Java Based Backend Development**
 - 🔁 Actively practicing **Data Structures & Algorithms** on **LeetCode** and **GFG**
 - 🎓 **Software Engineering** student at **Malla Reddy University**
 - 🌟 Serving as a **Board Member** of the **Microsoft Learn Student Chapter (MLSC)** — building community & sharing knowledge
@@ -28,7 +28,6 @@
   <!-- IDEs -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="50" alt="Eclipse"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" alt="IntelliJ IDEA"/>
-
 </p>
 
 <p align="center">
@@ -52,7 +51,22 @@
 
 ## 🚀 Projects
 
-### 🧑‍💼 Employee Management System
+### 🎬 FilmFusion – Movie Guessing Game  
+A fun web game where players guess the **actor, actress, and movie** with the help of hints, timers, and limited lives.  
+[🔗 View Repository](https://github.com/rajni2209/film-fusion-backup)
+<br>
+[🎮 Play Game](https://filmfusion-kohl.vercel.app/)
+
+---
+
+### 📇 Smart Contact Manager  
+A web application for managing personal & professional contacts with authentication, authorization, and CRUD features.  
+[🔗 View Repository](https://github.com/rajni2209/Smart-Contact-Manager)
+
+---
+
+### 🧑‍💼 Employee Management System  
+A backend project to manage employee records with CRUD operations and MySQL integration.  
 [🔗 View Repository](https://github.com/rajni2209/Employee-management-System)
 
 ---
@@ -79,14 +93,19 @@
 
 ### 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajnikant-kumar-27bb22354/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rajnikant070)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajnikantkumar2209@gmail.com)
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/rajnikant-kumar-27bb22354/">
+    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/rajnikant070">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" height="40" alt="Instagram"/>
+  </a>
+  <a href="mailto:rajnikantkumar2209@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Gmail"/>
+  </a>
+</p>
 
-### 💡 Quote I Live By
+### 💡 Quote I Live By  
 
 > *"Success doesn't come from what you do occasionally. It comes from what you do consistently."* – Marie Forleo
-
----
