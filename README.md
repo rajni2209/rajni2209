@@ -94,7 +94,7 @@ A backend project to manage employee records with CRUD operations and MySQL inte
 ### 📬 Let's Connect
 
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/rajnikant-kumar-27bb22354/">
     <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="40" height="40" alt="LinkedIn"/>
   </a>
