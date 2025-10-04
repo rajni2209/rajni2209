@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajnikant Kumar</h1>
-<h3 align="center">🚀 Aspiring Java Backend Developer | 🎓 B.Tech @ Malla Reddy University | 🌟 Board Member @ Microsoft Learn Student Chapter</h3>
+<h3 align="center">🚀 Aspiring Java Backend Developer | 🎓 B.Tech @ Malla Reddy University</h3>
 
 ---
 
@@ -9,7 +9,6 @@
 - 🌱 Currently deep-diving into **Java Based Backend Development**
 - 🔁 Actively practicing **Data Structures & Algorithms** on **LeetCode** and **GFG**
 - 🎓 **Software Engineering** student at **Malla Reddy University**
-- 🌟 Serving as a **Board Member** of the **Microsoft Learn Student Chapter (MLSC)** — building community & sharing knowledge
 
 ---
 
@@ -87,7 +86,6 @@ A backend project to manage employee records with CRUD operations and MySQL inte
 
 ### 🏆 Highlights & Achievements
 
-- 🌟 **Board Member**, Microsoft Learn Student Chapter (MLSC)
 - 🧠 Completed **LeetCode SQL 50 Challenge**
 - 🏅 **NPTEL Certified** in **Data Structures & Algorithms**
 
