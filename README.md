@@ -82,6 +82,10 @@ A backend project to manage employee records with CRUD operations and MySQL inte
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajni2209&layout=compact&theme=radical" />
 </p>
 
+![GitHub Stats](https://github-readme-activity-graph.vercel.app/graph?username=rajni2209)
+
+![Metrics](https://github.com/rajni2209/rajni2209/blob/main/github-metrics.svg)
+
 ---
 
 ### 🏆 Highlights & Achievements
