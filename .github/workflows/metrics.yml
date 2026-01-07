@@ -1,56 +1,33 @@
 name: GitHub Metrics
 
 on:
-  schedule:
-    - cron: "0 0 * * *"   # runs daily
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:
-  github-metrics:
+  metrics:
     runs-on: ubuntu-latest
 
     permissions:
       contents: write
-      pull-requests: read
 
     steps:
-      - name: Generate GitHub Metrics
+      - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
-          # IMPORTANT: Use Personal Access Token
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Output
           filename: github-metrics.svg
           output_action: commit
           committer_branch: main
 
-          # Base sections
           base: header, activity, community, repositories, metadata
 
-          # ❌ Disable broken plugins
+          # Disable broken plugins
           plugin_achievements: false
           plugin_habits: false
 
-          # ✅ Safe plugins
+          # Safe plugins
           plugin_languages: true
-          plugin_languages_limit: 6
-          plugin_languages_threshold: 0%
-
           plugin_isocalendar: true
-          plugin_isocalendar_duration: half-year
-
-          plugin_stars: true
-          plugin_stars_limit: 4
-
-          plugin_followup: true
-          plugin_followup_sections: repositories
-
-          plugin_lines: true
-
-          plugin_repositories: true
-          plugin_repositories_featured: rajni2209/rajni2209
-
-          # Display
-          config_display: regular
-          config_timezone: Asia/Kolkata
