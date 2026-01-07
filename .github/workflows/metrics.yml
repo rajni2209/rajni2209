@@ -2,34 +2,55 @@ name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # runs daily
   workflow_dispatch:
 
 jobs:
-  metrics:
+  github-metrics:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+      pull-requests: read
+
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: rajni2209
-          template: classic
+          # IMPORTANT: Use Personal Access Token
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Output
+          filename: github-metrics.svg
+          output_action: commit
+          committer_branch: main
+
+          # Base sections
           base: header, activity, community, repositories, metadata
 
-          # Languages
-          plugin_languages: yes
+          # ❌ Disable broken plugins
+          plugin_achievements: false
+          plugin_habits: false
+
+          # ✅ Safe plugins
+          plugin_languages: true
           plugin_languages_limit: 6
+          plugin_languages_threshold: 0%
 
-          # Achievements
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
-          plugin_achievements_secrets: yes
-          plugin_achievements_display: compact
+          plugin_isocalendar: true
+          plugin_isocalendar_duration: half-year
 
-          # Coding habits
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
+          plugin_stars: true
+          plugin_stars_limit: 4
 
-          # Contribution calendar
-          plugin_calendar: yes
+          plugin_followup: true
+          plugin_followup_sections: repositories
+
+          plugin_lines: true
+
+          plugin_repositories: true
+          plugin_repositories_featured: rajni2209/rajni2209
+
+          # Display
+          config_display: regular
+          config_timezone: Asia/Kolkata
