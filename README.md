@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajnikant Kumar</h1>
 <h3 align="center">🚀 Aspiring Java Backend Developer | 🎓 B.Tech @ Malla Reddy University</h3>
 
----
 
 ### 🙋‍♂️ About Me
 
@@ -10,7 +9,7 @@
 - 🔁 Actively practicing **Data Structures & Algorithms** on **LeetCode** and **GFG**
 - 🎓 **Software Engineering** student at **Malla Reddy University**
 
----
+
 
 ### 🛠️ Tech Stack
 
@@ -48,7 +47,6 @@
   <img src="https://img.shields.io/badge/Problem%20Solving-FF5722?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="30" />
 </p>
 
----
 
 ## 🚀 Projects
 
@@ -58,37 +56,30 @@ A fun web game where players guess the **actor, actress, and movie** with the he
 <br>
 [🎮 Play Game](https://filmfusion-kohl.vercel.app/)
 
----
 
 ### 📇 Smart Contact Manager  
 A web application for managing personal & professional contacts with authentication, authorization, and CRUD features.  
 [🔗 View Repository](https://github.com/rajni2209/Smart-Contact-Manager)
 
----
 
 ### 🧑‍💼 Employee Management System  
 A backend project to manage employee records with CRUD operations and MySQL integration.  
 [🔗 View Repository](https://github.com/rajni2209/Employee-management-System)
 
----
-
 ### 📈 GitHub Stats
 
+![Metrics](https://github.com/rajni2209/rajni2209/blob/main/github-metrics.svg)
+<br>
 ![GitHub Stats](https://github-readme-activity-graph.vercel.app/graph?username=rajni2209)
 
-![Metrics](https://github.com/rajni2209/rajni2209/blob/main/github-metrics.svg)
-
----
 
 ### 🏆 Highlights & Achievements
 
 - 🧠 Completed **LeetCode SQL 50 Challenge**
 - 🏅 **NPTEL Certified** in **Data Structures & Algorithms**
 
----
 
 ### 📬 Let's Connect
-
 
 <p>
   <a href="https://www.linkedin.com/in/rajnikant-kumar-27bb22354/">
@@ -105,3 +96,8 @@ A backend project to manage employee records with CRUD operations and MySQL inte
 ### 💡 Quote I Live By  
 
 > *"Success doesn't come from what you do occasionally. It comes from what you do consistently."* – Marie Forleo
+
+![Level](https://img.shields.io/badge/LEVEL-12-blueviolet?style=for-the-badge)
+![XP](https://img.shields.io/badge/XP-72%25-success?style=for-the-badge)
+![Player](https://img.shields.io/badge/PLAYER-rajni2209-black?style=for-the-badge&logo=github)
+
