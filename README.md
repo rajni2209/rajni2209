@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rajnikant Kumar</h1>
-<h3 align="center"><i>🚀 Aspiring Java Backend Developer | 🎓 B.Tech @ Malla Reddy University</i></h3>
+<h1 align="center">Hi, I'm Rajnikant Kumar</h1>
+<h3 align="center"><i>Java Backend Developer | B.Tech @ Malla Reddy University</i></h3>
 
 
 ### 🙋‍♂️ About Me
@@ -8,7 +8,11 @@
 - *🌱 Currently deep-diving into **Java Backend Development***
 - *🔁 Actively practicing **Data Structures & Algorithms** on **LeetCode** and **GFG***
 - *🎓 **Software Engineering** student at **Malla Reddy University***
-- *💼 Actively seeking backend developer internships / entry-level roles*
+
+### 🏆 Highlights & Achievements
+
+- *🧠 Completed **LeetCode SQL 50 Challenge***
+- *🏅 **NPTEL Certified** in **Data Structures & Algorithms***
 
 ### 🛠️ Tech Stack
 
@@ -64,11 +68,6 @@
 ![Metrics](https://github.com/rajni2209/rajni2209/blob/main/github-metrics.svg)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajni2209&theme=tokyo-night)
 
-
-### 🏆 Highlights & Achievements
-
-- *🧠 Completed **LeetCode SQL 50 Challenge***
-- *🏅 **NPTEL Certified** in **Data Structures & Algorithms***
 
 ### 📬 Let's Connect
 
