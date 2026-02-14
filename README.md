@@ -72,7 +72,7 @@
 ### 📬 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rajnikant-kumar-27bb22354/" target="_blank">
+  <a href="https://www.linkedin.com/in/rajnikant--kumar/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
