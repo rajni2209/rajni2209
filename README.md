@@ -42,6 +42,13 @@
 <br>
 
 ## 🚀 Projects
+
+### 🛒 Event-Driven E-Commerce Microservices Platform  
+*A production-style distributed backend system built with Spring Boot microservices, Kafka event streaming, and Saga orchestration for scalable order, payment, and inventory management.*  
+*[🔗 View Repository](https://github.com/rajni2209/e-commerce_spring_boot_microservice)*
+
+<br>
+
 ### 🎬 FilmFusion – Movie Guessing Game  
 *A fun web game where players guess the **actor, actress, and movie** with the help of hints, timers, and limited lives.*  
 *[🔗 View Repository](https://github.com/rajni2209/film-fusion-backup)*
