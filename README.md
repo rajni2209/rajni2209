@@ -120,21 +120,10 @@ I'm open to **Backend Developer and Java Developer roles** — internships, full
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/rajnikant070" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="40" height="40" alt="Instagram"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="mailto:rajnikantkumar2209@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40" alt="Gmail"/>
   </a>
 </p>
-
-
-### 💡 Quote I Live By  
-
-> *"Success doesn't come from what you do occasionally. It comes from what you do consistently."* – Marie Forleo
-
-
 
 
 
