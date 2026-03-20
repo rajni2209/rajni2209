@@ -8,10 +8,6 @@
 ## 🙋‍♂️ About Me
 Computer Science student focused on **backend engineering**, specializing in **distributed systems**, **event-driven architecture**, and **API design** using the Spring ecosystem.
 
-Built a **production-grade e-commerce backend** powered by 8+ microservices, featuring Kafka-based event streaming, Saga-driven distributed transactions, Outbox/Inbox reliability patterns, and Resilience4j for fault tolerance.
-
-Currently enhancing the platform with **Spring AI, LLMs, and RAG** to enable intelligent product discovery and conversational shopping experiences.
-
 - 🎯 Backend focus: Distributed systems, event-driven architecture, reliability patterns
 - 🚀 Project: Microservices e-commerce system (Kafka, Saga, Resilience4j)
 - 🌱 Exploring: Spring AI, LLM integration, RAG pipelines
