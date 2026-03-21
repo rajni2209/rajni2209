@@ -50,80 +50,50 @@ Computer Science student focused on **backend engineering**, specializing in **d
 </p>
 
 <br>
-
-## 🚀 Projects
-
-### 🛒 Event-Driven E-Commerce Microservices Platform
-> Production-grade distributed backend · Jan 2026 – Present · [🔗 View Repository](https://github.com/rajni2209/e-commerce_spring_boot_microservice)
-
-Architected a full e-commerce backend with **8+ independent microservices** — Auth, Product, Cart, Inventory, Order, Payment, Profile, Search — each with its own database and deployment boundary.
-
-**What makes it non-trivial:**
-- Event-driven communication via **Apache Kafka**
-- Distributed transactions using the **Saga orchestration pattern**
-- Guaranteed message delivery with **Outbox + Inbox patterns** and idempotent event handling
-- Fault tolerance with **Resilience4j** (circuit breaker, retry, rate limiter)
-- Secured with **Spring Security + JWT** · Service discovery via **Netflix Eureka**
-- Centralised config with **Spring Cloud Config Server** · **API Gateway** for unified routing
-
-> 🔮 Currently adding: Spring AI + LLMs + RAG for semantic search and conversational shopping
-
-`Java` `Spring Boot` `Apache Kafka` `MySQL` `Redis` `Elasticsearch` `Resilience4j` `JWT` `Docker`
-
----
-
-### 🎬 FilmFusion – Movie Trivia Game Backend
-> Aug 2025 · [🔗 View Repository](https://github.com/rajni2209/film-fusion-backup) · [🎮 Play Game](https://filmfusion-kohl.vercel.app/)
-
-Built the **full backend** for a movie trivia game where players guess Actor, Actress, and Movie from progressive hints — with countdown timer and limited lives adding real gameplay pressure.
-
-- RESTful APIs in Spring Boot serving dynamic quiz rounds, game state, and player sessions
-- **100+ quiz entries** stored across PostgreSQL + MySQL with optimised queries for fast round generation
-- Hint-reveal logic built **server-side** to prevent client-side answer exposure
-- Deployed on **Render** for live public access
-
-`Java` `Spring Boot` `Spring Data JPA` `PostgreSQL` `MySQL` `REST APIs`
-
----
-
-### 📇 Smart Contact Manager
-> [🔗 View Repository](https://github.com/rajni2209/Smart-Contact-Manager)
-
-Secure full-stack contact management app — built with **Spring Security** covering password encoding, session management, and role-based route protection from scratch. Full CRUD with profile management.
-
-`Java` `Spring Boot` `Spring Security` `MySQL` `Thymeleaf`
-
----
-
-### 🧑‍💼 Employee Management System
-> [🔗 View Repository](https://github.com/rajni2209/Employee-management-System)
-
-A deliberate deep-dive into **Spring Core**, dependency injection, and **Hibernate ORM** — the foundational layer that Spring Boot abstracts. Full CRUD with JSP-based UI and MySQL.
-
-`Java` `Spring MVC` `Spring Core` `Hibernate` `MySQL` `JSP`
+ 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-0052CC?style=for-the-badge&logo=buffer&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Resilience4j](https://img.shields.io/badge/Resilience4j-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ---
 
 ### 📈 GitHub Stats
 
 ![Metrics](https://github.com/rajni2209/rajni2209/blob/main/github-metrics.svg)
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajni2209&theme=github" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajni2209&theme=github" />
+</p>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajni2209&theme=github" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajni2209&theme=github&utcOffset=5.5" />
+</p>
 
 ---
 
-### 📬 Let's Connect
-
+## 📬 Let's Connect
+ 
 I'm open to **Backend Developer and Java Developer roles** — internships, full-time, or project collaborations.
-
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rajnikant--kumar/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:rajnikantkumar2209@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40" alt="Gmail"/>
-  </a>
-</p>
-
-
-
+ 
+- 📍 Location: Hyderabad, India
+- 📫 Email: [rajnikantkumar2209@gmail.com](mailto:rajnikantkumar2209@gmail.com)
+- 💼 LinkedIn: [Rajnikant Kumar](https://www.linkedin.com/in/rajnikant--kumar/)
+- 🐙 GitHub: [rajni2209](https://github.com/rajni2209)
+- 🧩 LeetCode: [rajni2209](https://leetcode.com/rajni2209)
