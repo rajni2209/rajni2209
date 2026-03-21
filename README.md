@@ -77,14 +77,6 @@ Computer Science student focused on **backend engineering**, specializing in **d
 ### 📈 GitHub Stats
 
 ![Metrics](https://github.com/rajni2209/rajni2209/blob/main/github-metrics.svg)
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajni2209&theme=github" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajni2209&theme=github" />
-</p>
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajni2209&theme=github" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajni2209&theme=github&utcOffset=5.5" />
-</p>
 
 ---
 
@@ -97,3 +89,5 @@ I'm open to **Backend Developer and Java Developer roles** — internships, full
 - 💼 LinkedIn: [Rajnikant Kumar](https://www.linkedin.com/in/rajnikant--kumar/)
 - 🐙 GitHub: [rajni2209](https://github.com/rajni2209)
 - 🧩 LeetCode: [rajni2209](https://leetcode.com/rajni2209)
+
+
