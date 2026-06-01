@@ -1,0 +1,20 @@
+<svg viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="heroGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#764ba2;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f093fb;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background gradient -->
+  <rect width="1200" height="400" fill="url(#heroGradient)"/>
+  
+  <!-- Wavy shape at bottom -->
+  <path d="M 0,250 Q 300,200 600,250 T 1200,250 L 1200,400 L 0,400 Z" fill="white"/>
+  
+  <!-- Main text -->
+  <text x="600" y="160" font-size="88" font-weight="800" text-anchor="middle" fill="white" font-family="'Arial', sans-serif" letter-spacing="-2">
+    hey, i'm Rajnikant!
+  </text>
+</svg>
