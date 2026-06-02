@@ -15,7 +15,9 @@ Here's a list of things I currently keep myself busy with:
 - Deep diving into distributed systems and system design
 - Exploring AI to make work smarter, faster, and more efficient
 
-<br clear="right"/>
+
+
+<!-- <br clear="right"/> -->
 
 ## Featured Projects
 
@@ -33,7 +35,7 @@ Movie trivia and guessing game for film enthusiasts. Guess movies from clues, ea
 
 🔗 **Repository:** *[https://github.com/rajni2209/filmFusion](https://github.com/rajni2209/filmfusion_frontend)*
 
-<br>
+<br> 
 
 ### 📈 GitHub Stats
 
