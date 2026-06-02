@@ -15,9 +15,19 @@ Here's a list of things I currently keep myself busy with:
 - Deep diving into distributed systems and system design
 - Exploring AI to make work smarter, faster, and more efficient
 
+Backend Toolkit
 
-
-<!-- <br clear="right"/> -->
+```text
+Languages       → Java
+Frameworks      → Spring Boot, Spring MVC, Spring Security
+Databases       → MySQL, MariaDB, PostgreSQL
+Messaging       → Kafka, RabbitMQ
+Cloud & DevOps  → Docker, Kubernetes
+Search          → Elasticsearch
+Architecture    → Microservices, Event-Driven Systems
+AI & LLMs       → Spring AI, Ollama, MCP, RAG, Tool Calling
+Tools           → Git, Maven, IntelliJ IDEA
+```
 
 ## Featured Projects
 
