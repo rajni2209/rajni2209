@@ -60,6 +60,7 @@ Movie trivia and guessing game for film enthusiasts. Guess movies from clues, ea
     <a href="https://github.com/rajni2209"><img src="https://img.shields.io/badge/GitHub-white?style=flat&logo=github&logoColor=black" alt="GitHub"></a>
     <a href="https://www.linkedin.com/in/rajnikant--kumar/"><img src="https://img.shields.io/badge/LinkedIn-white?style=flat&logo=linkedin&logoColor=blue" alt="LinkedIn"></a>
     <a href="mailto:rajnikantkumar2209@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=gmail&logoColor=black" alt="Email"></a>
+     <a href="https://rajnikant.me"><img src="https://img.shields.io/badge/Portfolio-white?style=flat&logo=google-chrome&logoColor=black" alt="Portfolio"></a>
   </p>
 </p>
 
